@@ -43,8 +43,26 @@
     },
     {
       "name": "Eisenhower",
-      "filename": "P eisenhower",
-      "iconCode": "\ue9ab",
+      "filename": "P_eisenhower",
+      "iconCode": "\ue9fd",
+      "landscape": false,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Black blank",
+      "filename": "Black_Page",
+      "iconCode": "\ue9fd",
+      "landscape": false,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Fancy Cover",
+      "filename": "fancy_cover",
+      "iconCode": "\ue9fd",
       "landscape": false,
       "categories": [
         "Life/organize"

@@ -3,9 +3,9 @@
 <svg width="100%" height="100%" viewBox="0 0 1404 1872" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
     <g id="surface1">
         <rect x="0" y="0" width="1404" height="1872" style="fill:rgb(254,254,254);"/>
-        <g transform="matrix(20,0,0,20,1318.3,136.516)">
+        <g transform="matrix(1,0,0,1,1254.93,136.516)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill-opacity:0.76;">When?</text>
         </g>
-        <text x="1254.93px" y="136.516px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill-opacity:0.76;">When?</text>
         <g transform="matrix(2.36002,0,0,0.927643,5.15344,5.50926)">
             <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:rgb(34,34,34);fill-opacity:0.24;"/>
         </g>
@@ -138,23 +138,26 @@
         <g transform="matrix(1,0,0,-1,1,1870.5)">
             <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
         </g>
-        <g transform="matrix(1,0,0,1,-148.71,-16.3609)">
-            <g transform="matrix(70,0,0,70,594.021,96.1153)">
+        <g transform="matrix(1,0,0,1,202.607,78.7541)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:70px;">URGENT</text>
+        </g>
+        <g transform="matrix(1,0,0,1,149.884,1011.17)">
+            <g transform="matrix(70,0,0,70,418.804,0)">
             </g>
-            <text x="298.469px" y="96.115px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:70px;">URGENT</text>
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:70px;">DELEGA<tspan x="278.804px 321.563px " y="0px 0px ">TE</tspan>D</text>
         </g>
-        <g transform="matrix(1,0,0,1,-150.047,913.764)">
-            <g transform="matrix(70,0,0,70,655.274,98.9969)">
+        <g transform="matrix(1,0,0,1,435.944,-17.7608)">
+            <g>
+                <g transform="matrix(1,0,0,1,354.232,97.055)">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:70px;">IMPOR</text>
+                </g>
+                <g transform="matrix(1,0,0,1,582.415,97.055)">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:70px;">T<tspan x="37.564px 84.253px " y="0px 0px ">AN</tspan>T</text>
+                </g>
             </g>
-            <text x="236.47px" y="98.997px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:70px;">DELEGA<tspan x="515.274px 558.032px " y="98.997px 98.997px ">TE</tspan>D</text>
         </g>
-        <g transform="matrix(1,0,0,1,437.944,-15.7608)">
-            <g transform="matrix(70,0,0,70,759.979,97.0548)">
-            </g>
-            <text x="354.232px" y="97.055px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:70px;">IMPOR<tspan x="582.415px 619.979px 666.668px " y="97.055px 97.055px 97.055px ">TAN</tspan>T</text>
+        <g transform="matrix(1,0,0,1,854.999,138.191)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill-opacity:0.76;">What?</text>
         </g>
-        <g transform="matrix(20,0,0,20,912.801,138.191)">
-        </g>
-        <text x="854.999px" y="138.191px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill-opacity:0.76;">What?</text>
     </g>
 </svg>
