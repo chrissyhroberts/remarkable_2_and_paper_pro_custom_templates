@@ -45,7 +45,7 @@
       ]
     }
     ```
-    
+	* Icon codes can be found [here](http://www.davisr.me/posts/2020/2020-10-07/rm-2.3.0.16-icon-codes.png)    
 	* Push everything back to the device 
 		* `scp -r ./templates/ root@192.12.12.3:/usr/share/remarkable/`
 
