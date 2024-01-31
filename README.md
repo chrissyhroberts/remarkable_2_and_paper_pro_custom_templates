@@ -16,7 +16,8 @@
 	* Edit the templates in something like Affinity/Inkscape etc.
 	* Save your new templates as svg and png
 	* Edit the templates.json file to add the new template
-		```
+
+```
 		{
       "name": "Checklist",
       "filename": "LS Checklist",
@@ -44,7 +45,7 @@
         "Life/organize"
       ]
     }
-    ```
+```
 	* Icon codes can be found [here](http://www.davisr.me/posts/2020/2020-10-07/rm-2.3.0.16-icon-codes.png)    
 	* Push everything back to the device 
 		* `scp -r ./templates/ root@192.12.12.3:/usr/share/remarkable/`
