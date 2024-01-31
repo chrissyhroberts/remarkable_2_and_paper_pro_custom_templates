@@ -12,11 +12,14 @@
 	* Accept the connection for ssh security
 	* At the prompt, type the password you got from the device
 	* Make the changes you want to the template svg files
-	* Ensure that each template has a .png and .svg files
 	* Edit the templates in something like Affinity/Inkscape etc.
-	* Save your new templates as svg and png
-	* Edit the templates.json file to add the new template
-		```
+	* Save your new templates as .svg and .png
+	* Make a copy of the `templates.json` file in the New_Templates directory.
+  	* Edit New_Templates/templates.json to add your custom template
+	* Icon codes can be found [here](http://www.davisr.me/posts/2020/2020-10-07/rm-2.3.0.16-icon-codes.png)    
+
+The addition to the json file should look like this example for "Eisenhower"
+```
 		{
       "name": "Checklist",
       "filename": "LS Checklist",
@@ -44,9 +47,10 @@
         "Life/organize"
       ]
     }
-    ```
-	* Icon codes can be found [here](http://www.davisr.me/posts/2020/2020-10-07/rm-2.3.0.16-icon-codes.png)    
-	* Push everything back to the device 
-		* `scp -r ./templates/ root@192.12.12.3:/usr/share/remarkable/`
+```
 
-	
+
+* Push your new templates back to the device 
+	* `scp ./New_Templates/* root@192.12.12.3:/usr/share/remarkable/templates/`
+
+* Restart the remarkable device	
