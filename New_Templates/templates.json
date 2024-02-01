@@ -69,6 +69,15 @@
       ]
     },
     {
+      "name": "Chrissy Notes",
+      "filename": "Cornell_small",
+      "iconCode": "\ue9fd",
+      "landscape": false,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
       "name": "Dayplanner",
       "filename": "LS Dayplanner",
       "iconCode": "\ue9ac",
