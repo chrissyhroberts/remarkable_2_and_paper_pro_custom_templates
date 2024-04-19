@@ -69,6 +69,15 @@
       ]
     },
     {
+      "name": "Commonplace Book",
+      "filename": "commonplace_book",
+      "iconCode": "\ue9fd",
+      "landscape": false,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
       "name": "Chrissy Notes",
       "filename": "Cornell_small",
       "iconCode": "\ue9fd",

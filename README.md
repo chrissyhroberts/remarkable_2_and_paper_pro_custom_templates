@@ -54,3 +54,11 @@ The addition to the json file should look like this example for "Eisenhower"
 	* `scp ./New_Templates/* root@192.12.12.3:/usr/share/remarkable/templates/`
 
 * Restart the remarkable device	
+
+
+### Custom Sleep screens
+
+The various power off, sleep etc screens are also just png files, so you can add a custom sleep screen pretty easily
+Just push them to `/usr/share/remarkable/`
+There's examples in the `sleep_screens` folder
+Rename the one you want to use as suspended.png

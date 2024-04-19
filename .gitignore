@@ -1,4 +1,12 @@
-
+*.afdesign~lock~
 .DS_Store
 templates/*
 templates/
+Affinity_Files/Cornell_small.afdesign~lock~
+Affinity_Files/Cornell_small.afdesign~lock~
+Affinity_Files/DRDC_Onboarding.afdesign~lock~
+Affinity_Files/P_eisenhower.afdesign~lock~
+Affinity_Files/DRDC_Onboarding.afdesign
+sleep_screens/suspended_b.png
+*.afdesign~lock~
+Affinity_Files/P_eisenhower.afdesign~lock~
