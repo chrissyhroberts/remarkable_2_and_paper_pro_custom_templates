@@ -60,6 +60,15 @@
       ]
     },
     {
+      "name": "Pomodoro",
+      "filename": "pomodoro",
+      "iconCode": "\ue9fd",
+      "landscape": false,
+      "categories": [
+        "Life/organize"
+      ]
+    },
+    {
       "name": "Eisenhower",
       "filename": "P_eisenhower",
       "iconCode": "\ue9fd",
