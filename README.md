@@ -1,4 +1,4 @@
-# remarkable_2_hacks
+# Remarkable 2 and Remarkable Paper Pro hacks for custom sleep screens and templates. 
 
 ## Access to the template folder over ssh
 
