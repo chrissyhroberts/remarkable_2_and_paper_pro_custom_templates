@@ -102,3 +102,6 @@ NB there's some security risk of course with opening up wlan connection, so keep
 
 ![PHOTO-2024-09-14-11-18-00](https://github.com/user-attachments/assets/700bc131-4e2c-4c67-9817-b1f359e381cf)
 
+## Support this project
+
+If you would like to support this project, please feel free to buy me a coffee https://t.co/GpUNwewruR
