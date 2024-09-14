@@ -99,4 +99,5 @@ Reboot to load it all back up again.
 
 NB there's some security risk of course with opening up wlan connection, so keep your password safe. 
 
+![PHOTO-2024-09-14-11-18-00](https://github.com/user-attachments/assets/700bc131-4e2c-4c67-9817-b1f359e381cf)
 
