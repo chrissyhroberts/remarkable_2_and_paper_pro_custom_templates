@@ -62,3 +62,41 @@ The various power off, sleep etc screens are also just png files, so you can add
 Just push them to `/usr/share/remarkable/`
 There's examples in the `sleep_screens` folder
 Rename the one you want to use as suspended.png
+
+
+
+
+# Remarkable Paper Pro
+
+
+The paper pro seems to have the same inner workings as the remarkable 2, except it doesn't show you how to connect via wifi without a bit of shenanigans. 
+
+Your new templates need to be SVGs with 1620 x 2160 pixels
+
+When you start the device for the first time, you need to enable developer mode 
+Go to settings > sotfware > advanced
+This will factory reset in to developer mode
+Set up as normal
+Plug the system in to your computer with the usb cable
+Go to settings > software > about
+the top ip address is something like 10.11.99.2
+use terminal to ```ssh root@10.11.99.2```
+type the password shown in bold on the device
+then type ```rm-ssh-over-wlan on```
+from now on you can wifi connect with the other ip that starts 192.xxx
+When you log in, you'll need to remount the filesystem with write permissions as it initially mounts as readonly
+remount with ```mount -o remount,rw /```
+check it worked with ```mount | grep .```
+Transfer your templates as above, I use cyberduck for drag and drop. 
+
+the json data for templates is now stored (on this version at least) in a file called `ferrari-templates.json`
+Edit that instead of the templates.json file. 
+As with the previous device, there's a load of hidden pre-designed templates that you can activate by adding them back in to the json file. 
+
+Reboot to load it all back up again. 
+
+
+
+NB there's some security risk of course with opening up wlan connection, so keep your password safe. 
+
+

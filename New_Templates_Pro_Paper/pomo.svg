@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1620 2160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g id="surface1" transform="matrix(1.15385,0,0,1.15385,0,0)">
+        <rect x="0" y="0" width="1404" height="1872" style="fill:rgb(254,254,254);"/>
+        <g transform="matrix(2.36002,0,0,16.9769,5.15344,118.9)">
+            <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:rgb(34,34,34);fill-opacity:0.24;"/>
+        </g>
+        <g transform="matrix(8.17385e-17,1.33489,1.33489,-8.17385e-17,2.69786,1.97911)">
+            <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.12px;"/>
+        </g>
+        <g transform="matrix(8.17385e-17,1.33489,1.33489,-8.17385e-17,1401.59,1.97911)">
+            <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.12px;"/>
+        </g>
+        <g transform="matrix(1.00159,0,0,-2.66871,0.17479,2.93837)">
+            <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.12px;"/>
+        </g>
+        <g>
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,171.378)">
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,342.626)">
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,514.813)">
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,682.187)">
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,854.252)">
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,1023.31)">
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,1197.71)">
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,1372.64)">
+            <g transform="matrix(1.04225,0,0,0.906729,152.262,263.544)">
+                <rect x="-3.789" y="-6.707" width="594.983" height="109.894" style="fill:white;stroke:black;stroke-width:5.12px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,511.024,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,753.975,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,509.067,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,752.018,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,565.816,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,808.767,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,563.859,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,806.81,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,621.442,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,864.393,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,619.485,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,862.436,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,678.453,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,921.404,-282.714)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,676.496,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.746164,0,0,0.725851,919.447,-216.34)">
+                <circle cx="413.072" cy="767.012" r="32.035" style="fill:white;stroke:black;stroke-width:6.79px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.403894,0,0,-1,162.629,325.982)">
+                <path d="M0,0L1402,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.5px;"/>
+            </g>
+            <g transform="matrix(1.23348,0,0,1.14644,-323.974,-53.3214)">
+                <rect x="1294.72" y="264.439" width="92.834" height="99.678" style="fill:white;stroke:black;stroke-width:4.2px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,285.828)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1017.94,354.619)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">|</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,202.607,182.635)">
+            <g>
+                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">T</text>
+                <g transform="matrix(1,0,0,1,26.831,0)">
+                    <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">ask</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,499.804,86.5201)">
+            <g transform="matrix(1,0,0,1,297.043,96.5154)">
+                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">Pomodoros</text>
+            </g>
+            <g transform="matrix(1,0,0,1,762.138,96.115)">
+                <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:50px;">Done</text>
+            </g>
+        </g>
+    </g>
+</svg>
