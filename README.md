@@ -92,7 +92,9 @@ When you start the device for the first time, you need to enable developer mode
 
 the json data for templates is now stored (on this version at least) in a file called `ferrari-templates.json`  
 Edit that instead of the `templates.json` file.   
-As with the previous device, there's a load of hidden pre-designed templates that you can activate by adding them back in to the json file.   
+2024-10-02 update - The newest version seems to have reverted to using `templates.json`. If it doesn't work, try the other one. 
+
+As with the previous device, there's a cart-load of hidden secret pre-designed templates that you can activate by adding them back in to the json file.   
 
 * Reboot to load it all back up again.   
 
