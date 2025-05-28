@@ -1,0 +1,94 @@
+{
+  "name": "Weekplanner 1",
+  "author": "reMarkable",
+  "templateVersion": "1.0.0",
+  "formatVersion": 1,
+  "categories": ["Creative"],
+  "orientation": "portrait",
+  "constants": [
+    { "midX": "templateWidth / 3" },
+    { "row1": 180 },
+    { "row2": 890 },
+    { "row3": 1760 }
+  ],
+  "items": [
+    {
+      "id": "grid",
+      "type": "path",
+      "strokeWidth": 1.5,
+      "data": [
+        "M", 0, "row1", "L", "templateWidth", "row1",
+        "M", 0, "row2", "L", "templateWidth/3", "row2",
+        "M", 0, "row3", "L", "templateWidth", "row3",
+        "M", "midX", 0, "L", "midX", "row2",
+        "M", "midX", "row2", "L", "midX", "row3"
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Date",
+      "fontSize": 28,
+      "position": { "x": 130, "y": 70 }
+    },
+    {
+      "type": "text",
+      "text": "Topic",
+      "fontSize": 28,
+      "position": { "x": "midX + 30", "y": 70 }
+    },
+    {
+      "type": "text",
+      "text": "People",
+      "fontSize": 28,
+      "position": { "x": 130, "y": 210 }
+    },
+    {
+      "type": "text",
+      "text": "Themes",
+      "fontSize": 28,
+      "position": { "x": 130, "y": 930 }
+    },
+    {
+      "type": "text",
+      "text": "Actions",
+      "fontSize": 28,
+      "position": { "x": 130, "y": 1800 }
+    },
+    {
+      "type": "path",
+      "id": "lines",
+      "data": [
+        "M", 40, 260, "L", "midX - 40", 260,
+        "M", 40, 330, "L", "midX - 40", 330,
+        "M", 40, 400, "L", "midX - 40", 400,
+        "M", 40, 470, "L", "midX - 40", 470,
+        "M", 40, 540, "L", "midX - 40", 540,
+        "M", 40, 610, "L", "midX - 40", 610,
+        "M", 40, 680, "L", "midX - 40", 680,
+        "M", 40, 750, "L", "midX - 40", 750,
+        "M", 40, 820, "L", "midX - 40", 820,
+        "M", "midX + 40", 260, "L", "templateWidth - 40", 260,
+        "M", "midX + 40", 330, "L", "templateWidth - 40", 330,
+        "M", "midX + 40", 400, "L", "templateWidth - 40", 400,
+        "M", "midX + 40", 470, "L", "templateWidth - 40", 470,
+        "M", "midX + 40", 540, "L", "templateWidth - 40", 540,
+        "M", "midX + 40", 610, "L", "templateWidth - 40", 610,
+        "M", "midX + 40", 680, "L", "templateWidth - 40", 680,
+        "M", "midX + 40", 750, "L", "templateWidth - 40", 750,
+        "M", "midX + 40", 820, "L", "templateWidth - 40", 820,
+        "M", "midX + 40", 890, "L", "templateWidth - 40", 890,
+        "M", "midX + 40", 960, "L", "templateWidth - 40", 960,
+        "M", "midX + 40", 1030, "L", "templateWidth - 40", 1030,
+        "M", "midX + 40", 1100, "L", "templateWidth - 40", 1100,
+        "M", "midX + 40", 1170, "L", "templateWidth - 40", 1170,
+        "M", "midX + 40", 1250, "L", "templateWidth - 40", 1250,
+        "M", "midX + 40", 1320, "L", "templateWidth - 40", 1320,
+        "M", "midX + 40", 1390, "L", "templateWidth - 40", 1390,
+        "M", "midX + 40", 1460, "L", "templateWidth - 40", 1460,
+        "M", "midX + 40", 1530, "L", "templateWidth - 40", 1530,
+        "M", "midX + 40", 1600, "L", "templateWidth - 40", 1600,
+        "M", "midX + 40", 1670, "L", "templateWidth - 40", 1670
+      ]
+    }
+  ]
+}

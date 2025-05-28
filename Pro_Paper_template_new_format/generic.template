@@ -1,0 +1,88 @@
+{
+  "name": "Basic Form",
+  "author": "reMarkable",
+  "templateVersion": "1.0.0",
+  "formatVersion": 1,
+  "categories": ["Forms"],
+  "orientation": "portrait",
+  "constants": [
+    { "formX": 80 },
+    { "formWidth": "templateWidth - 160" },
+    { "titleY": 100 },
+    { "linesStartY": 180 },
+    { "lineSpacing": 60 },
+    { "boxHeight": 60 },
+    { "boxSmall": 200 },
+    { "boxMedium": 400 },
+    { "boxLarge": 600 },
+    { "nameY": 700 },
+    { "emailY": 800 },
+    { "commentY": 920 }
+  ],
+  "items": [
+    {
+      "type": "text",
+      "text": "Basic Form",
+      "fontSize": 36,
+      "position": { "x": "templateWidth / 2 - 90", "y": "titleY" }
+    },
+    {
+      "type": "text",
+      "text": "Name:",
+      "fontSize": 24,
+      "position": { "x": "formX", "y": "nameY" }
+    },
+    {
+      "type": "path",
+      "data": [
+        "M", 244,91, "L", 1387,91,
+        "M", 1387,91, "L", 1387,483,
+        "M", 1387,483, "L", 244,483,
+        "M", 244,483, "L", 244,91,
+        
+        "M", 635,518, "L", 1387,518,
+        "M", 1387,518, "L", 1387,660,
+        "M", 1387,660, "L", 635,660,
+        "M", 635,660, "L", 635,518
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Email:",
+      "fontSize": 24,
+      "position": { "x": "formX", "y": "emailY" }
+    },
+    {
+      "type": "path",
+      "data": [
+        "M", "formX + 100", "emailY",
+        "L", "formX + 100 + boxMedium", "emailY",
+        "M", "formX + 100 + boxMedium", "emailY",
+        "L", "formX + 100 + boxMedium", "emailY + boxHeight",
+        "M", "formX + 100 + boxMedium", "emailY + boxHeight",
+        "L", "formX + 100", "emailY + boxHeight",
+        "M", "formX + 100", "emailY + boxHeight",
+        "L", "formX + 100", "emailY"
+      ]
+    },
+    {
+      "type": "text",
+      "text": "Comments:",
+      "fontSize": 24,
+      "position": { "x": "formX", "y": "commentY" }
+    },
+    {
+      "type": "path",
+      "data": [
+        "M", "formX", "commentY + 40",
+        "L", "formX + boxLarge", "commentY + 40",
+        "M", "formX + boxLarge", "commentY + 40",
+        "L", "formX + boxLarge", "commentY + 40 + boxHeight * 3",
+        "M", "formX + boxLarge", "commentY + 40 + boxHeight * 3",
+        "L", "formX", "commentY + 40 + boxHeight * 3",
+        "M", "formX", "commentY + 40 + boxHeight * 3",
+        "L", "formX", "commentY + 40"
+      ]
+    }
+  ]
+}
